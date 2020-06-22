@@ -1,0 +1,124 @@
+.span-frutas{
+    font-weight: 900;
+    font-size: 11px;
+    padding: 0 15px;
+    color: #0f6e3f;
+    border-color: rgba(0,0,0,0.13);
+    
+}
+.a-frutas{
+    margin-left: 0px;
+    font-size: 11px;
+    color: #666;
+}
+.a-frutas:hover{
+    color: #ff2520;
+
+}
+
+li{
+
+    display: inline-block;
+}
+.ul-Frutas{
+
+    display: table;
+    justify-content: center!important; 
+    padding-bottom: 1rem;
+    margin-bottom: 0px;
+    background-color: white;
+
+    width: 100%;    
+}
+
+.li-Frutas{
+    padding-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    list-style-position:inside;
+    border: 1px solid green;
+    box-shadow: 0 0 2px rgba(0,0,0,0.33);
+}
+.h1-frutas{
+
+    padding-top: 0rem;
+    padding-bottom: 1rem;
+}
+.MenuFrutas{
+    width: 100%;
+    margin-top: 0rem;
+    padding-bottom: 31px;
+    background-color: #fff;
+}
+
+.p-Frutas{
+    margin-left: 0px;
+    font-size: 15px;
+    color: #666;
+    text-align: center;
+
+}
+.icone-frutas{
+    display: inline-flex;
+    text-align: center;
+}
+
+.btn-Frutas{
+  font-size: 20px;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  border: 1px solid green;
+  box-shadow: 0 0 2px rgba(0,0,0,0.33);
+  margin-left: 30px;
+  margin-right: 30px;
+        
+}
+
+.btn-Frutas.active.focus, .btn-Frutas.active:focus, .btn-Frutas.focus, .btn-Frutas:active.focus, .btn-Frutas:active:focus, .btn-Frutas:focus {
+    outline: 0;
+}
+
+.p-btn-Frutas{
+    background-color: white;
+    border: medium none!important;
+    color: #ff2520;
+    font-size: 24px;
+    font-weight: 700;
+
+}
+.carrinho-frutas{
+    text-align: center;
+}
+
+.btn-carrinho-Frutas{
+    font-family: 'Montserrat',sans-serif;
+    color: green;
+    margin-top: 20px;
+    border: 1px solid green;
+    box-shadow: 0 0 2px rgba(0,0,0,0.33);
+    border-radius: 10px;
+}
+
+.btn-carrinho-Frutas.active.focus, .btn-carrinho-Frutas.active:focus, .btn-carrinho-Frutas.focus, .btn-carrinho-Frutas:active.focus, .btn-carrinho-Frutas:active:focus, .btn-carrinho-Frutas:focus {
+    outline: 0;
+}
+.hr-frutas{
+    padding-top: 1rem;
+    margin-top:0px
+
+}
+
+.top-fruta{
+    height: 20px;
+    background-color: white;
+}
+.mensagem-frutas{
+
+padding-bottom: 352px;
+
+}

@@ -1,0 +1,83 @@
+
+  
+  #students{
+    background-color: white;
+    margin:auto;
+    align-items: center;
+    width: 90%
+    
+  }
+  .Carrinho{
+    background-color: white;
+    width: 100%;
+    height: 100%;
+  }
+  .p-carrinho{
+    text-align: right;
+    margin:auto;
+    width: 90%;
+    background-color: white;
+    border: 1px solid green;
+  }
+  .btn-primary:hover {
+    background: #00983f!important;
+    border-color: #00983f!important;
+}
+
+.btn-primary{
+    margin-top: 1rem;
+    float: right;
+    background: #00983f!important;
+    border-color: #00983f!important;
+    background-color: white;
+}
+
+.hr-carrinho{
+  padding-top: 1rem;
+  margin-top:0px
+
+}
+
+.top-carrinho{
+  height: 20px;
+  background-color: white;
+}
+
+.a-frutas{
+  border-right: 1px solid #666;
+}
+
+.btn-carrinho{
+
+  width: 100%;
+  background-color: white;
+  height: 245px;
+}
+
+.btn-success{
+  margin-right: 62px;
+  margin-top: 1rem;
+  float: right;
+  margin-left: 1rem!important;
+  background: #00983f!important;
+  border-color: #00983f!important;
+  background-color: white;
+
+}
+
+.btn-danger{
+  margin-right: 62px;
+  margin-top: 1rem;
+  float: right;
+
+}
+
+#div-form{
+
+    background-color: white;
+}
+
+.form-row>.col, .form-row>[class*=col-] {
+    padding-right: 15px;
+    padding-left: 15px;
+}

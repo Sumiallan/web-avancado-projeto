@@ -1,0 +1,124 @@
+.span-Legumes{
+    font-weight: 900;
+    font-size: 11px;
+    padding: 0 15px;
+    color: #0f6e3f;
+    border-color: rgba(0,0,0,0.13);
+    
+}
+.a-Legumes{
+    margin-left: 0px;
+    font-size: 11px;
+    color: #666;
+}
+.a-Legumes:hover{
+    color: #ff2520;
+
+}
+
+li{
+
+    display: inline-block;
+}
+.ul-Legumes{
+
+    display: table;
+    justify-content: center!important; 
+    padding-bottom: 1rem;
+    margin-bottom: 0px;
+    background-color: white;
+
+    width: 100%;    
+}
+
+.li-Legumes{
+    padding-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    list-style-position:inside;
+    border: 1px solid green;
+    box-shadow: 0 0 2px rgba(0,0,0,0.33);
+}
+.h1-Legumes{
+
+    padding-top: 0rem;
+    padding-bottom: 1rem;
+}
+.MenuLegumes{
+    width: 100%;
+    margin-top: 0rem;
+    padding-bottom: 31px;
+    background-color: #fff;
+}
+
+.p-Legumes{
+    margin-left: 0px;
+    font-size: 15px;
+    color: #666;
+    text-align: center;
+
+}
+.icone-Legumes{
+    display: inline-flex;
+    text-align: center;
+}
+
+.btn-Legumes{
+  font-size: 20px;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  border: 1px solid green;
+  box-shadow: 0 0 2px rgba(0,0,0,0.33);
+  margin-left: 30px;
+  margin-right: 30px;
+        
+}
+
+.btn-Legumes.active.focus, .btn-Legumes.active:focus, .btn-Legumes.focus, .btn-Legumes:active.focus, .btn-Legumes:active:focus, .btn-Legumes:focus {
+    outline: 0;
+}
+
+.p-btn-Legumes{
+    background-color: white;
+    border: medium none!important;
+    color: #ff2520;
+    font-size: 24px;
+    font-weight: 700;
+
+}
+.carrinho-Legumes{
+    text-align: center;
+}
+
+.btn-carrinho-Legumes{
+    font-family: 'Montserrat',sans-serif;
+    color: green;
+    margin-top: 20px;
+    border: 1px solid green;
+    box-shadow: 0 0 2px rgba(0,0,0,0.33);
+    border-radius: 10px;
+}
+
+.btn-carrinho-Legumes.active.focus, .btn-carrinho-Legumes.active:focus, .btn-carrinho-Legumes.focus, .btn-carrinho-Legumes:active.focus, .btn-carrinho-Legumes:active:focus, .btn-carrinho-Legumes:focus {
+    outline: 0;
+}
+.hr-Legumes{
+    padding-top: 1rem;
+    margin-top:0px
+
+}
+
+.top-fruta{
+    height: 20px;
+    background-color: white;
+}
+.mensagem-Legumes{
+
+padding-bottom: 352px;
+
+}

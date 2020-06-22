@@ -1,0 +1,17 @@
+#example{
+    background-color: white;
+    margin:auto;
+    align-items: center;
+    width: 90%
+
+}
+.PedidosCliente{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+.footer{
+
+    padding-top: 4rem;
+}

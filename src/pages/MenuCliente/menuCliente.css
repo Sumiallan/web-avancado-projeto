@@ -1,0 +1,111 @@
+
+.menu {
+    background-color: #fff;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    padding-top: 0px;
+    margin-top: 1px;
+    margin-right: 0;
+    margin-left: 0;
+    padding-left: 0px;
+    padding-right: 0px;
+    min-width:100%
+
+}
+
+body {
+    font-family: 'Montserrat',sans-serif;
+    -webkit-text-size-adjust: none;
+    -webkit-font-smoothing: antialiased;
+    background-image: url(/Fruits.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-weight: 400;
+}
+.nav-pills{
+	background-color: #0f6e3f;
+    text-transform: uppercase;
+}
+
+.navbar {
+    margin-right: 0px;
+    bottom: 7px;
+}
+
+#carrinho{
+    color: #28a745;
+}
+
+
+a {
+    color: #fff;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+}
+
+a:hover {
+    color: #fff;
+}
+
+
+
+.small {
+    color: #fff;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    font-size: 15;
+}
+
+
+
+.h4, h4 {
+        color: #fff;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    font-size: 28;
+}
+
+.form-control{min-width:500px;
+
+
+}
+
+.form-inline {
+    padding-left: 398px;
+}
+
+#menusuperior{
+    margin-left: 470px;
+    max-width: 800px;
+    margin-bottom: 20px;
+    color: #fff;
+    background-color: #0f6e3f;
+}
+.img-MenuPrincipal{
+    position: absolute;
+   
+    top: -14px;
+    bottom: 0x;
+    left: 90px;
+    right: 0;
+    max-height: 100%;
+
+}
+.img-div-MenuPrincipal{
+    position: relative;
+    display: block;
+    height: 110px;
+
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #0f6e3f;
+}
+
+
+#nav-MenuPrincipal{
+
+    margin-right: 88px;
+
+}
